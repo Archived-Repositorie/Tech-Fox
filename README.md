@@ -11,6 +11,7 @@
  - How to install?
  - Version
  - FAQ
+ - Server
 ## Mod list
 |Mod|Author|Curse Forge|GitHub|
 |--|--|--|--|
