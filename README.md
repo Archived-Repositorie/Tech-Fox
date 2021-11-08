@@ -1,5 +1,5 @@
 
-# Tech-Fox
+# Tech-Foxed
 
  
 ![enter image description here](https://repository-images.githubusercontent.com/425910722/3eb6b1ea-64f1-4d26-841b-5575f1253110)
@@ -115,3 +115,39 @@
 |EditSign (Forge&Fabric)|RakSrinaNa|https://www.curseforge.com/minecraft/mc-mods/edit-sign|https://github.com/RakSrinaNa/EditSign|
 |Quarry Reborn|TED_inc|https://www.curseforge.com/minecraft/mc-mods/quarry-reborn|https://github.com/TED-inc/FabricQuarry|
 |LambdaBetterGrass|LambdAurora|https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass|https://github.com/LambdAurora/LambdaBetterGrass|
+|Pipe|Flytre7|https://www.curseforge.com/minecraft/mc-mods/pipe|none|
+|Shadew's Foxes|FoxShadew|https://www.curseforge.com/minecraft/mc-mods/shadews-foxes|https://github.com/FoxShadew/Foxes|
+|Cull Leaves|Motschen|https://www.curseforge.com/minecraft/mc-mods/cull-leaves|https://github.com/TeamMidnightDust/CullLeaves|
+|Animatica|FoundationGames|https://www.curseforge.com/minecraft/mc-mods/animatica|https://github.com/FoundationGames/Animatica|
+|Colormatic|kwertiTheCats|https://www.curseforge.com/minecraft/mc-mods/colormatic|https://github.com/kvverti/colormatic|
+|CIT Resewn|SHsuperCM|https://www.curseforge.com/minecraft/mc-mods/cit-resewn|https://github.com/SHsuperCM/CITResewn|
+|Continuity|Pepper_Bell|https://www.curseforge.com/minecraft/mc-mods/continuity|https://github.com/PepperCode1/Continuity|
+|FerriteCore (Fabric)|malte0811|https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric|https://github.com/malte0811/FerriteCore|
+|Smooth Boot (Fabric)|UltimateBoomer|https://www.curseforge.com/minecraft/mc-mods/smooth-boot|https://github.com/UltimateBoomer/mc-smoothboot|
+|Smooth Scrolling Everywhere (Fabric)|shedaniel|https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric|https://github.com/shedaniel/SmoothScrollingEverywhere|
+|Language Reload|Jerozgen|https://www.curseforge.com/minecraft/mc-mods/language-reload|https://github.com/Jerozgen/LanguageReload|
+|Enhanced Block Entities|FoundationGames|https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities|https://github.com/FoundationGames/EnhancedBlockEntities|
+|Custom LAN|DimiDimit|https://www.curseforge.com/minecraft/mc-mods/custom-lan|https://github.com/DimiDimit/Custom-LAN|
+|Wildfire's Female Gender Mod (Fabric)|WildfireRomeo|https://www.curseforge.com/minecraft/mc-mods/female-gender-fabric|none|
+|Fabric API|modmuss50|https://www.curseforge.com/minecraft/mc-mods/fabric-api|https://github.com/FabricMC/fabric|
+|Cammie's Wearable Backpacks|Camellias_|https://www.curseforge.com/minecraft/mc-mods/cammies-wearable-backpacks|https://github.com/CammiePone/Cammies-Wearable-Backpacks|
+|Nyf's Quivers|theNyfaria|https://www.curseforge.com/minecraft/mc-mods/nyfs-quivers|https://github.com/Nyfaria/NyfsQuiver|
+|Nyf's Deco|theNyfaria|https://www.curseforge.com/minecraft/mc-mods/nyfs-deco|https://github.com/Nyfaria/NyfsDeco|
+|Indium|comp500|https://www.curseforge.com/minecraft/mc-mods/indium|https://github.com/comp500/Indium|
+|Xaero's Minimap|xaero96|https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap|none|
+|Xaero's World Map|xaero96|https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map|none|
+|First-person Model (Forge/Fabric)|tr9zw|https://www.curseforge.com/minecraft/mc-mods/first-person-model|https://github.com/tr7zw/FirstPersonModel-Fabric|
+|TRansliterationLib|tr9zw|https://www.curseforge.com/minecraft/mc-mods/transliterationlib|https://github.com/tr7zw/TRansliterationLib|
+|Dynamic Surroundings: Fabric Edition|OreCruncher|https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings-fabric-edition|https://github.com/OreCruncher/DynamicSurroundingsFabric|
+|Better Third Person|Socolio|https://www.curseforge.com/minecraft/mc-mods/better-third-person|none|
+|Additional Additions|dqu1jjj|https://www.curseforge.com/minecraft/mc-mods/additional-additions|https://github.com/Dqu1J/additionaladditions|
+|Industrial Revolution|GabrielHOlv|https://www.curseforge.com/minecraft/mc-mods/industrial-revolution|https://github.com/StupPlayer/Industrial-Revolution|
+|Bits And Chisels|cool_mineman|https://www.curseforge.com/minecraft/mc-mods/bits-and-chisels|https://github.com/CoolMineman/BitsAndChisels|
+|SimpleTech for Fabric|JohnPattox|https://www.curseforge.com/minecraft/mc-mods/simpletech-for-fabric|https://github.com/johannesmateboer/SimpleTech|
+|Croptopia [FABRIC/FORGE]|thethonk|https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric|https://github.com/ExcessiveAmountsOfZombies/Croptopia|
+|Bewitchment|MoriyaShiine|https://www.curseforge.com/minecraft/mc-mods/bewitchment|https://github.com/MoriyaShiine/bewitchment|
+|Somnus API|TheIllusiveC4|https://www.curseforge.com/minecraft/mc-mods/somnus|https://github.com/TheIllusiveC4/Somnus|
+|PlayerAbilityLib|PyrofabTheModsmith|https://www.curseforge.com/minecraft/mc-mods/pal|https://github.com/Ladysnake/PlayerAbilityLib|
+|Patchouli (Fabric)|williewillus|https://www.curseforge.com/minecraft/mc-mods/patchouli-fabric|https://github.com/Vazkii/Patchouli/|
+|Impersonate|PyrofabTheModsmith|https://www.curseforge.com/minecraft/mc-mods/impersonate|https://github.com/Ladysnake/Impersonate|
+|Pehkui|Virtuoel|https://www.curseforge.com/minecraft/mc-mods/pehkui|https://github.com/Virtuoel/Pehkui|
