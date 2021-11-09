@@ -1,5 +1,6 @@
 
 
+
 # Tech-Fox
 
  
@@ -8,7 +9,7 @@
  - [Description](#desription)
  - [Mods list](#mod-list) 
  - [Requirements](#requirements)
- - Curse Forge
+ - [Curse Forge](https://www.curseforge.com/minecraft/modpacks/tech-fox)
  - How to install?
  - FAQ
  - Server
@@ -166,4 +167,14 @@ Minecraft modpack made for Fabric (and it will be always fabric), and it will be
 - Minecraft: Java Edition 1.17.1
 - Java OpenJDK 16 and newer
 - Modloader Fabric 0.12.5 and newer
+
+## How to install?
+*In building...*
+## FAQ
+There will be question that are the most popular 
+|Question|Answer|
+|--|--|
+|Can i make video about that modpack?|Yes|
+|Can you add X mod?|Yes, you need send about that mod in features in [issues category](https://github.com/JustFoxx/Tech-Fox/issues)|
+
 
