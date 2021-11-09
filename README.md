@@ -171,7 +171,11 @@ Minecraft modpack made for Fabric (and it will be always fabric), and it will be
 - Modloader Fabric 0.12.5 and newer
 
 ## How to install?
-*In building...*
+If there is not video about your operation system but you can make video how to do that, i do be glad if you could send on issues link to video (video file for JustFox channel or youtube link if you want upload it on youtube by yourself) and i could put there
+|Operation System|Video|
+|--|--|
+|Windows|*In making*|
+|Linux|*In making*|
 ## FAQ
 There will be question that are the most popular 
 |Question|Answer|
