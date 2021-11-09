@@ -1,10 +1,11 @@
 
+
 # Tech-Foxed
 
  
 ![enter image description here](https://repository-images.githubusercontent.com/425910722/3eb6b1ea-64f1-4d26-841b-5575f1253110)
 ## Pages
- - Description
+ - [Description](#desription)
  - [Mods list](#mod-list) 
  - Requirements
  - Curse Forge
@@ -12,6 +13,9 @@
  - Version
  - FAQ
  - Server
+## Description
+Minecraft modpack made for Fabric (and it will be always fabric), and it will be always on latest versions (if mods from older version would be ported to latest version otherwise you need wait). Modpack is made to be optimized (mods like iris+sodium, indium, Lithium etc) with Technology mods (Applied Energistics 2, SimpleTech etc) and Adventure mods (BetterEnd, BetterNether,Repurposed Structures, Traverse etc) plus mods to just make it little realistic (Dynamic Surroundings, First-person Model, Wildfire’s Female Gender Mod etc) and some mods to make it just feel good and looks good (Cull Leaves, Particle Rain, Enhanced Block Entities, LambdaBetterGrass etc). If you have any issues or ideas for modpack check [templates](https://github.com/JustFoxx/Tech-Fox/tree/InDev/.github/ISSUE_TEMPLATE) and send them on [github repository](https://github.com/JustFoxx/Tech-Fox) under [issues category](https://github.com/JustFoxx/Tech-Fox/issues). And if u have question about modpack (check first [FAQ](#faq) before asking) send them too in [issues category](https://github.com/JustFoxx/Tech-Fox/issues).
+
 ## Mod list
 |Mod|Author|Curse Forge|GitHub|
 |--|--|--|--|
