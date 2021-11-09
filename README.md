@@ -168,7 +168,7 @@ Minecraft modpack made for Fabric (and it will be always fabric), and it will be
 |Minimal|6GB|3GB|
 - Minecraft: Java Edition 1.17.1
 - Java OpenJDK 16 and newer
-- Modloader Fabric 0.12.5 and newer
+- Modloader Fabric 0.12.3 and newer
 
 ## How to install?
 If there is not video about your operation system but you can make video how to do that, i do be glad if you could send on [issues category](https://github.com/JustFoxx/Tech-Fox/issues) using question tag to video and i could put there.
