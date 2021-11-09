@@ -10,7 +10,6 @@
  - Requirements
  - Curse Forge
  - How to install?
- - Version
  - FAQ
  - Server
 ## Description
