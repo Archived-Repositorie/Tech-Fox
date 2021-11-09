@@ -181,3 +181,9 @@ There will be question that are the most popular
 *In building...*
 ## Videos
 *In building...*
+## Addons
+There are addons to make gameplay looks better that i cant implement into modpack! (Texture Packs and Shaders)
+|Addon|Link|
+|--|--|
+|Shaders|https://github.com/IrisShaders/Iris#what-shader-packs-can-i-use-right-now|
+|Texture Pack|https://www.curseforge.com/minecraft/texture-packs/bettervanillabuilding|
