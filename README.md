@@ -5,11 +5,12 @@
  
 ![enter image description here](https://repository-images.githubusercontent.com/425910722/3eb6b1ea-64f1-4d26-841b-5575f1253110)
 ## Pages
- - [Description](#description)
+ - [Description](#desription)
  - [Mods list](#mod-list) 
- - Requirements
+ - [Requirements](#requirements)
  - Curse Forge
  - How to install?
+ - Version
  - FAQ
  - Server
 ## Description
@@ -155,3 +156,12 @@ Minecraft modpack made for Fabric (and it will be always fabric), and it will be
 |Patchouli (Fabric)|williewillus|https://www.curseforge.com/minecraft/mc-mods/patchouli-fabric|https://github.com/Vazkii/Patchouli/|
 |Impersonate|PyrofabTheModsmith|https://www.curseforge.com/minecraft/mc-mods/impersonate|https://github.com/Ladysnake/Impersonate|
 |Pehkui|Virtuoel|https://www.curseforge.com/minecraft/mc-mods/pehkui|https://github.com/Virtuoel/Pehkui|
+
+## Requirements
+
+ 
+|Recommendation|ram on computer|ram for minecraft|
+|--|--|--|
+|Tested/Recommended|8GB|4GB|
+|Minimal|6GB|3GB|
+
