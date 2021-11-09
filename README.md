@@ -10,7 +10,6 @@
  - [Requirements](#requirements)
  - Curse Forge
  - How to install?
- - Version
  - FAQ
  - Server
 ## Description
@@ -167,3 +166,4 @@ Minecraft modpack made for Fabric (and it will be always fabric), and it will be
 - Minecraft: Java Edition 1.17.1
 - Java OpenJDK 16 and newer
 - Modloader Fabric 0.12.5 and newer
+
