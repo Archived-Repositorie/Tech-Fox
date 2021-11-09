@@ -160,8 +160,10 @@ Minecraft modpack made for Fabric (and it will be always fabric), and it will be
 ## Requirements
 
  
-|Recommendation|ram on computer|ram for minecraft|
+|Recommendation|Ram on computer|Ram for minecraft|
 |--|--|--|
 |Tested/Recommended|8GB|4GB|
 |Minimal|6GB|3GB|
-
+- Minecraft: Java Edition 1.17.1
+- Java OpenJDK 16 and newer
+- Modloader Fabric 0.12.5 and newer
