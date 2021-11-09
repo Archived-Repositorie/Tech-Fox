@@ -1,0 +1,32 @@
+{
+	/* 
+	   Structure Configs.
+	   - Lower SPACING & SEPARATION = more structures
+	   - SALT is the generation seed for structures. This is in addition to world seed. Do not change this unless you commonly see overlapping structures.
+	   - Change SIZE so modify how many times the generator tries to add additional rooms. For example on mage towers this would increase the amount of floors.
+	*/
+	"MAGETOWER": {
+		"STUCTURECONFIG": {
+			"field_24918": 30,
+			"field_24919": 14,
+			"field_24920": 383209018
+		},
+		"SIZE": 7
+	},
+	"IGLOO": {
+		"STUCTURECONFIG": {
+			"field_24918": 28,
+			"field_24919": 10,
+			"field_24920": 38419
+		},
+		"SIZE": 7
+	},
+	"DUNGEON": {
+		"STUCTURECONFIG": {
+			"field_24918": 32,
+			"field_24919": 12,
+			"field_24920": 238238183
+		},
+		"SIZE": 8
+	}
+}

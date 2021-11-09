@@ -1,0 +1,33 @@
+{
+  "firstPerson": {
+    "enabledByDefault": true,
+    "xOffset": 0,
+    "sneakXOffset": 0,
+    "sitXOffset": 0,
+    "vanillaHands": false,
+    "doubleHands": false,
+    "playerHeadSkins": false,
+    "hideCosmeticsButton": false,
+    "forceActive": false
+  },
+  "paperDoll": {
+    "dollEnabled": true,
+    "location": "TOP_RIGHT",
+    "dollXOffset": 0,
+    "dollYOffset": 14,
+    "dollSize": 0,
+    "dollLookingSides": 20,
+    "dollLookingUpDown": -20,
+    "dollHeadMode": "FREE"
+  },
+  "cosmetic": {
+    "hat": "VANILLA",
+    "head": "VANILLA",
+    "chest": "VANILLA",
+    "boots": "VANILLA",
+    "back": "VANILLA",
+    "playerSize": 100,
+    "modifyCameraHeight": false,
+    "backHue": 0
+  }
+}

@@ -1,0 +1,25 @@
+{
+	"fastLeafDecay": true,
+	"fullChopDurabilityUsage": "BREAK_MID_CHOP",
+	"sneakBehavior": "DISABLE_CHOPPING",
+	"requireLeavesToChop": true,
+	"treeChopMode": "SINGLE_CHOP",
+	"logSearchLimit": 1000,
+	"stopBeforeAxeBreak": true,
+	"chopInCreativeMode": false,
+	"axes": [
+		"minecraft:wooden_axe",
+		"minecraft:stone_axe",
+		"minecraft:golden_axe",
+		"minecraft:iron_axe",
+		"minecraft:diamond_axe",
+		"minecraft:netherite_axe",
+		"betterend:aeternium_axe",
+		"betterend:thallasium_axe",
+		"betterend:terminite_axe",
+		"betternether:cincinnasite_axe",
+		"betternether:cincinnasite_axe_diamond",
+		"betternether:nether_ruby_axe"
+	],
+	"variableBreakingTime": false
+}
