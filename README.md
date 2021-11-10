@@ -175,7 +175,7 @@ If there is not video about your operation system but you can make video how to 
 |Operation System|Video|
 |--|--|
 |Windows|none|
-|Linux|none|
+|Linux|https://www.youtube.com/watch?v=b6mftp-blFg|
 ## FAQ
 There will be question that are the most popular 
 |Question|Answer|
