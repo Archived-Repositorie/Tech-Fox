@@ -73,7 +73,6 @@ Minecraft modpack made for Fabric (and it will be always fabric), and it will be
 |The Aether Reborn|ImmortalDevs|https://www.curseforge.com/minecraft/mc-mods/aether-reborn|https://github.com/kalucky0/The-Aether|
 |Urns|bernardozomer|https://www.curseforge.com/minecraft/mc-mods/urns|https://github.com/Bernardozomer/urns-mod|
 |Wandering Collector|Siphalor|https://www.curseforge.com/minecraft/mc-mods/wandering-collector|https://github.com/Siphalor/wandering-collector|
-|Wandering Collector|Siphalor|https://www.curseforge.com/minecraft/mc-mods/wandering-collector|https://github.com/Siphalor/wandering-collector|
 |Name Pain|naqaden|https://www.curseforge.com/minecraft/mc-mods/name-pain|none|
 |Ambient Environment|Jaredlll08|https://www.curseforge.com/minecraft/mc-mods/ambient-environment|https://github.com/jaredlll08/Ambiance|
 |Earth2Java|Slexom|https://www.curseforge.com/minecraft/mc-mods/earth2java-fabric|https://github.com/Slexom/earth2java|
