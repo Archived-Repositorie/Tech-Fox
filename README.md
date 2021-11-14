@@ -31,7 +31,8 @@ Minecraft modpack made for Fabric (and it will be always fabric), and it will be
 |Cloth Config API (Fabric)|shedaniel|https://www.curseforge.com/minecraft/mc-mods/cloth-config|https://github.com/shedaniel/cloth-config|
 |Architectury API (Fabric)|shedaniel|https://www.curseforge.com/minecraft/mc-mods/architectury-fabric|https://github.com/architectury/architectury-api|
 |FPS Reducer|bre2el|https://www.curseforge.com/minecraft/mc-mods/fps-reducer|none|
-|Simple Discord RPC [Forge/Fabric]|hypherionsa|https://www.curseforge.com/minecraft/mc-mods/simple-discord-rpc|https://github.com/hypherionmc/simple-rpc-public|
+|AdventureZ|Globox_Z|https://www.curseforge.com/minecraft/mc-mods/adventurez|https://github.com/Globox1997/AdventureZ|
+|CraftPresence|CDAGaming_|https://www.curseforge.com/minecraft/mc-mods/craftpresence|https://gitlab.com/CDAGaming/CraftPresence|
 |Dark Paintings|DarkhaxDev|https://www.curseforge.com/minecraft/mc-mods/dark-paintings|https://github.com/Darkhax-Minecraft/Dark-Paintings|
 |Charm|svenhjol|https://www.curseforge.com/minecraft/mc-mods/charm|https://github.com/svenhjol/Charm|
 |Mod Menu|ProspectorDev|https://www.curseforge.com/minecraft/mc-mods/modmenu|https://github.com/TerraformersMC/ModMenum|
