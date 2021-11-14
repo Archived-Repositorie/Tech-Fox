@@ -159,6 +159,11 @@ Minecraft modpack made for Fabric (and it will be always fabric), and it will be
 | Patchouli (Fabric)                                                       | williewillus       | https://www.curseforge.com/minecraft/mc-mods/patchouli-fabric                    | https://github.com/Vazkii/Patchouli/                               | Accessible, Data-Driven, Dependency-Free Documentation for Minecraft Modders and Pack Makers |
 | Impersonate                                                              | PyrofabTheModsmith | https://www.curseforge.com/minecraft/mc-mods/impersonate                         | https://github.com/Ladysnake/Impersonate                           | Impersonate: to assume or act the character of |
 | Pehkui                                                                   | Virtuoel           | https://www.curseforge.com/minecraft/mc-mods/pehkui                              | https://github.com/Virtuoel/Pehkui                                 | Allows resizing of most entities, shrinking their size smaller or growing them larger |
+| FancyMenu [Fabric]                                                                   | Keksuccino           | https://www.curseforge.com/minecraft/mc-mods/fancymenu-fabric/                              | https://github.com/Keksuccino/FancyMenu                                 |  Minecraft menus, but much more fancy! Customize menu screens with animations & more!  |
+
+| Load My Resources [Fabric]                                                                   | Keksuccino           | https://www.curseforge.com/minecraft/mc-mods/load-my-resources-fabric                              | https://github.com/Keksuccino/Load-My-Resources                                 |  Minecraft menus, but much more fancy! Customize menu screens with animations & more!  |
+
+| Konkrete [Fabric]                                                                   | Keksuccino           | https://www.curseforge.com/minecraft/mc-mods/konkrete-fabric                              | https://github.com/Keksuccino/Konkrete                                 |    Load resources on game start, like a resource pack, but enabled by default.    |
 
 ## Requirements
 
