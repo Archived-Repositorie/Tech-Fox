@@ -3,7 +3,7 @@
   "deobfuscateStackTrace": true,
   "catchInitializationCrashes": true,
   "debugModIdentification": false,
-  "forceCrashScreen": true,
+  "forceCrashScreen": false,
   "crashLimit": 20,
   "crashlogUpload": {
     "destination": "BYTEBIN",

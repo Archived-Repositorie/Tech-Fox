@@ -25,7 +25,7 @@ fov:1.0
 screenEffectScale:1.0
 fovEffectScale:1.0
 gamma:1.0
-renderDistance:16
+renderDistance:32
 entityDistanceScaling:1.0
 guiScale:3
 particles:1
@@ -106,8 +106,13 @@ key_key.hotbar.9:key.keyboard.9
 key_key.dynamicfps.toggle_forced:key.keyboard.unknown
 key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
+key_Reload Menu | CTRL + ALT + :key.keyboard.r
+key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
 key_key.namepain.showculled:key.keyboard.unknown
 key_toggle:key.keyboard.f6
+key_key.adventurez.activatearmor:key.keyboard.v
+key_key.adventurez.dragonflydown:key.keyboard.left.alt
+key_key.adventurez.dragonfirebreath:key.keyboard.grave.accent
 key_key.bewitchment.transformation_ability:key.keyboard.r
 key_carrier.key:key.keyboard.unknown
 key_key.charm.openCraftingTable:key.keyboard.v
@@ -126,6 +131,7 @@ key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_a.b.c:key.keyboard.right.bracket
 key_key.lightoverlay.enable_overlay:key.keyboard.f7
+key_key.craftpresence.config_keycode.name:key.keyboard.grave.accent
 key_key.nyfsquivers.open_quiver:key.keyboard.b
 key_key.nyfsquivers.increase_slot:key.keyboard.right.bracket
 key_key.nyfsquivers.decrease_slot:key.keyboard.left.bracket
