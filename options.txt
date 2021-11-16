@@ -35,7 +35,7 @@ graphicsMode:0
 ao:2
 biomeBlendRadius:2
 renderClouds:false
-resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default","additionalbars/classic","continuity/default","continuity/glass_pane_culling_fix","cullleaves/smartleaves","file/BetterVanillaBuildingV2.64.zip","betterbeds/fancybeds"]
+resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default","additionalbars/classic","continuity/default","continuity/glass_pane_culling_fix","cullleaves/smartleaves","betterbeds/fancybeds"]
 incompatibleResourcePacks:["additionalbars/classic"]
 lastServer:
 lang:en_us
@@ -114,7 +114,6 @@ key_key.adventurez.activatearmor:key.keyboard.v
 key_key.adventurez.dragonflydown:key.keyboard.left.alt
 key_key.adventurez.dragonfirebreath:key.keyboard.grave.accent
 key_key.bewitchment.transformation_ability:key.keyboard.r
-key_carrier.key:key.keyboard.unknown
 key_key.charm.openCraftingTable:key.keyboard.v
 key_key.dml-refabricated.teleport:key.keyboard.v
 key_key.dml-refabricated.soul_vision:key.keyboard.b
@@ -131,7 +130,6 @@ key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_a.b.c:key.keyboard.right.bracket
 key_key.lightoverlay.enable_overlay:key.keyboard.f7
-key_key.craftpresence.config_keycode.name:key.keyboard.grave.accent
 key_key.nyfsquivers.open_quiver:key.keyboard.b
 key_key.nyfsquivers.increase_slot:key.keyboard.right.bracket
 key_key.nyfsquivers.decrease_slot:key.keyboard.left.bracket
@@ -139,6 +137,7 @@ key_key.okzoomer.zoom:key.keyboard.c
 key_key.okzoomer.decrease_zoom:key.keyboard.unknown
 key_key.okzoomer.increase_zoom:key.keyboard.unknown
 key_key.okzoomer.reset_zoom:key.keyboard.unknown
+key_key.craftpresence.config_keycode.name:key.keyboard.enter
 key_key.wildfire_gender.gender_menu:key.keyboard.g
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.keypad.add

@@ -1,12 +1,12 @@
 {
   "minecraft": {
     "version": "1.17.1",
-    "modLoaders": [{ "id": "fabric-0.12.3", "primary": true }]
+    "modLoaders": [{ "id": "fabric-0.12.5", "primary": true }]
   },
   "manifestType": "minecraftModpack",
   "overrides": "overrides",
   "manifestVersion": 1,
-  "version": "pre 3",
+  "version": "pre 4",
   "author": "justfoxxo",
   "name": "Tech Fox",
   "files": [
@@ -39,7 +39,6 @@
     { "projectID": 521673, "fileID": 3442444, "required": true },
     { "projectID": 437443, "fileID": 3487563, "required": true },
     { "projectID": 443091, "fileID": 3507889, "required": true },
-    { "projectID": 409184, "fileID": 3504375, "required": true },
     { "projectID": 371307, "fileID": 3344491, "required": true },
     { "projectID": 318872, "fileID": 3393290, "required": true },
     { "projectID": 521427, "fileID": 3498887, "required": true },
@@ -149,6 +148,7 @@
     { "projectID": 421649, "fileID": 3479840, "required": true },
     { "projectID": 416796, "fileID": 3521842, "required": true },
     { "projectID": 416797, "fileID": 3467884, "required": true },
-    { "projectID": 534835, "fileID": 3495967, "required": true }
+    { "projectID": 534835, "fileID": 3495967, "required": true },
+    { "projectID": 308841, "fileID": 3331405, "required": true }
   ]
 }
