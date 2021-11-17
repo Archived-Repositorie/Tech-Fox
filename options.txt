@@ -25,7 +25,7 @@ fov:1.0
 screenEffectScale:1.0
 fovEffectScale:1.0
 gamma:1.0
-renderDistance:32
+renderDistance:8
 entityDistanceScaling:1.0
 guiScale:3
 particles:1
@@ -35,7 +35,7 @@ graphicsMode:0
 ao:2
 biomeBlendRadius:2
 renderClouds:false
-resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default","additionalbars/classic","continuity/default","continuity/glass_pane_culling_fix","cullleaves/smartleaves","betterbeds/fancybeds"]
+resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default","additionalbars/classic","continuity/default","continuity/glass_pane_culling_fix","cullleaves/smartleaves","betterbeds/fancybeds","loadmyresources.hiddenpack","file/BetterVanillaBuildingV2.64.zip"]
 incompatibleResourcePacks:["additionalbars/classic"]
 lastServer:
 lang:en_us
@@ -129,6 +129,7 @@ key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_a.b.c:key.keyboard.right.bracket
+key_key.craftpresence.config_keycode.name:key.keyboard.enter
 key_key.lightoverlay.enable_overlay:key.keyboard.f7
 key_key.nyfsquivers.open_quiver:key.keyboard.b
 key_key.nyfsquivers.increase_slot:key.keyboard.right.bracket
@@ -137,7 +138,6 @@ key_key.okzoomer.zoom:key.keyboard.c
 key_key.okzoomer.decrease_zoom:key.keyboard.unknown
 key_key.okzoomer.increase_zoom:key.keyboard.unknown
 key_key.okzoomer.reset_zoom:key.keyboard.unknown
-key_key.craftpresence.config_keycode.name:key.keyboard.enter
 key_key.wildfire_gender.gender_menu:key.keyboard.g
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.keypad.add
@@ -159,7 +159,7 @@ key_gui.xaero_open_settings:key.keyboard.right.bracket
 key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
-soundCategory_master:0.0
+soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
