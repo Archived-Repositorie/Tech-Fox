@@ -178,7 +178,7 @@ Minecraft modpack made for Fabric (and it will be always fabric), and it will be
 If there is not video about your operation system but you can make video how to do that, i do be glad if you could send on [issues category](https://github.com/JustFoxx/Tech-Fox/issues) using question tag to video and i could put there.
 | Operation System | Video                        |
 | ---------------- | ---------------------------- |
-| Windows          | https://youtu.be/AEwP5kPNG0I |
+| Windows          | https://youtu.be/YU4jIP6Yj0M |
 | Linux            | https://youtu.be/b6mftp-blFg |
 ## FAQ
 There will be question that are the most popular 
