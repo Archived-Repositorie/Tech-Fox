@@ -179,7 +179,7 @@ If there is not video about your operation system but you can make video how to 
 | Operation System | Video                        |
 | ---------------- | ---------------------------- |
 | Windows          | https://youtu.be/YU4jIP6Yj0M |
-| Linux            | https://youtu.be/b6mftp-blFg |
+| Linux            | https://youtu.be/6f25e0pmpQ4 |
 ## FAQ
 There will be question that are the most popular 
 | Question                             | Answer                                                                                                          |
