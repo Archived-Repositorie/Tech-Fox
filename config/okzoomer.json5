@@ -5,7 +5,7 @@
 		   "VANILLA" uses Vanilla's cinematic camera.
 		   "MULTIPLIED" is a multiplied variant of "VANILLA".
 		*/
-		"cinematic_camera": "VANILLA",
+		"cinematic_camera": "OFF",
 		// Reduces the mouse sensitivity when zooming.
 		"reduce_sensitivity": true,
 		/* Adds transitions between zooms.
@@ -25,7 +25,7 @@
 		// Adds zoom manipulation keys along with the zoom key.
 		"extra_keybinds": true,
 		// Adds an overlay in the screen during zoom. The overlay texture can be found at: assets/okzoomer/textures/misc/zoom_overlay.png
-		"zoom_overlay": true
+		"zoom_overlay": false
 	},
 	"values": {
 		// The divisor applied to the FOV when zooming.

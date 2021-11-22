@@ -1,7 +1,7 @@
 {
   "animation_settings": {
     "animation": true,
-    "animate_water": false,
+    "animate_water": true,
     "animate_lava": true,
     "animate_fire": true,
     "animate_portal": true,
