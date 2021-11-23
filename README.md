@@ -9,11 +9,11 @@
  - [Curse Forge](https://www.curseforge.com/minecraft/modpacks/tech-fox)
  - [How to install?](#how-to-install)
  - [FAQ](#faq)
- - [Server](#server)
  - [Videos](#videos)
  - [Addons](#addons)
  - [ScreenShots](#screenshots)
  - [Discord](https://discord.gg/b2eTtwfQG3)
+ - [Modpacks](#modpacks)
 ## Description
 Minecraft modpack made for Fabric (and it will be always fabric), and it will be always on latest versions (if mods from older version would be ported to latest version otherwise you need wait). Modpack is made to be optimized (mods like iris+sodium, indium, Lithium etc) with Technology mods (Applied Energistics 2, SimpleTech etc) and Adventure mods (BetterEnd, BetterNether,Repurposed Structures, Traverse etc) plus mods to just make it little realistic (Dynamic Surroundings, First-person Model, Wildfire’s Female Gender Mod etc) and some mods to make it just feel good and looks good (Cull Leaves, Particle Rain, Enhanced Block Entities, LambdaBetterGrass etc). If you have any issues or ideas for modpack check [templates](https://github.com/JustFoxx/Tech-Fox/tree/InDev/.github/ISSUE_TEMPLATE) and send them on [github repository](https://github.com/JustFoxx/Tech-Fox) under [issues category](https://github.com/JustFoxx/Tech-Fox/issues). And if u have question about modpack (check first [FAQ](#faq) before asking) send them too in [issues category](https://github.com/JustFoxx/Tech-Fox/issues).
 
@@ -158,14 +158,12 @@ Minecraft modpack made for Fabric (and it will be always fabric), and it will be
 | Impersonate                                                              | PyrofabTheModsmith | https://www.curseforge.com/minecraft/mc-mods/impersonate                         | https://github.com/Ladysnake/Impersonate                           | Impersonate: to assume or act the character of                                                                 |
 | Pehkui                                                                   | Virtuoel           | https://www.curseforge.com/minecraft/mc-mods/pehkui                              | https://github.com/Virtuoel/Pehkui                                 | Allows resizing of most entities, shrinking their size smaller or growing them larger                          |
 | FancyMenu [Fabric]                                                       | Keksuccino         | https://www.curseforge.com/minecraft/mc-mods/fancymenu-fabric/                   | https://github.com/Keksuccino/FancyMenu                            | Minecraft menus, but much more fancy! Customize menu screens with animations & more!                           |
-
-| Load My Resources [Fabric]                                                                   | Keksuccino           | https://www.curseforge.com/minecraft/mc-mods/load-my-resources-fabric                              | https://github.com/Keksuccino/Load-My-Resources                                 |  Minecraft menus, but much more fancy! Customize menu screens with animations & more!  |
-
-| Konkrete [Fabric]                                                                   | Keksuccino           | https://www.curseforge.com/minecraft/mc-mods/konkrete-fabric                              | https://github.com/Keksuccino/Konkrete                                 |    Load resources on game start, like a resource pack, but enabled by default.    |
+| Load My Resources [Fabric]                                               | Keksuccino         | https://www.curseforge.com/minecraft/mc-mods/load-my-resources-fabric            | https://github.com/Keksuccino/Load-My-Resources                    | Minecraft menus, but much more fancy! Customize menu screens with animations & more!                           |
+| Konkrete [Fabric]                                                        | Keksuccino         | https://www.curseforge.com/minecraft/mc-mods/konkrete-fabric                     | https://github.com/Keksuccino/Konkrete                             | Load resources on game start, like a resource pack, but enabled by default.                                    |
 
 ## Requirements
 
- 
+Client
 | Recommendation     | Ram on computer | Ram for minecraft |
 | ------------------ | --------------- | ----------------- |
 | Tested/Recommended | 8GB             | 4GB               |
@@ -173,6 +171,11 @@ Minecraft modpack made for Fabric (and it will be always fabric), and it will be
 - Minecraft: Java Edition 1.17.1
 - Java OpenJDK 16 and newer
 - Modloader Fabric 0.12.3 and newer
+
+Server
+| Recommendation     | Ram |
+| ------------------ | --- |
+| Tested/Recommended | 4GB |
 
 ## How to install?
 If there is not video about your operation system but you can make video how to do that, i do be glad if you could send on [issues category](https://github.com/JustFoxx/Tech-Fox/issues) using question tag to video and i could put there.
@@ -186,8 +189,6 @@ There will be question that are the most popular
 | ------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
 | Can i make video about that modpack? | Yes                                                                                                             |
 | Can you add X mod?                   | Yes, you need send about that mod in features in [issues category](https://github.com/JustFoxx/Tech-Fox/issues) |
-## Server
-*In building...*
 ## Videos
 If you want make any videos of preview modpack or you have series about modpack. Send link to those videos in [issues category](https://github.com/JustFoxx/Tech-Fox/issues) using question tag.
 ## Addons
@@ -202,3 +203,5 @@ There are addons to make gameplay looks better that i cant implement into modpac
 ![2021-11-14_14 48 18](https://user-images.githubusercontent.com/73485099/141684535-f4b13a6e-a449-4d06-87c0-917b494f88ef.png)
 ![2021-11-14_14 55 52](https://user-images.githubusercontent.com/73485099/141684549-36f8ab14-7130-433f-933a-9e2cda34ffc9.png)
 ![unknown](https://user-images.githubusercontent.com/73485099/142032699-d9d3dcf5-3dcf-401c-bb4a-7cba11240a02.png)
+
+## Modpacks
