@@ -5,7 +5,7 @@ autoSuggestions:true
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
-enableVsync:true
+enableVsync:false
 entityShadows:true
 forceUnicodeFont:false
 discrete_mouse_scroll:false
@@ -35,7 +35,7 @@ graphicsMode:0
 ao:2
 biomeBlendRadius:2
 renderClouds:false
-resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default","additionalbars/classic","continuity/default","continuity/glass_pane_culling_fix","cullleaves/smartleaves","betterbeds/fancybeds","loadmyresources.hiddenpack","file/BetterVanillaBuildingV2.64.zip"]
+resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default","additionalbars/classic","continuity/default","continuity/glass_pane_culling_fix","cullleaves/smartleaves","loadmyresources.hiddenpack"]
 incompatibleResourcePacks:["additionalbars/classic"]
 lastServer:
 lang:en_us
@@ -103,19 +103,19 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
-key_key.dynamicfps.toggle_forced:key.keyboard.unknown
+key_key.dynamicfps.toggle_forced:key.keyboard.semicolon
 key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_Reload Menu | CTRL + ALT + :key.keyboard.r
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
 key_key.namepain.showculled:key.keyboard.unknown
 key_toggle:key.keyboard.f6
-key_key.adventurez.activatearmor:key.keyboard.v
+key_key.adventurez.activatearmor:key.keyboard.apostrophe
 key_key.adventurez.dragonflydown:key.keyboard.left.alt
 key_key.adventurez.dragonfirebreath:key.keyboard.grave.accent
 key_key.bewitchment.transformation_ability:key.keyboard.r
 key_key.charm.openCraftingTable:key.keyboard.v
-key_key.dml-refabricated.teleport:key.keyboard.v
+key_key.dml-refabricated.teleport:key.keyboard.j
 key_key.dml-refabricated.soul_vision:key.keyboard.b
 key_dsurround.text.keybind.individualSoundConfig:key.keyboard.unknown
 key_dsurround.text.keybind.diagnosticHud:key.keyboard.unknown
@@ -128,8 +128,8 @@ key_key.indrev.modular:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
+key_key.craftpresence.config_keycode.name:key.keyboard.equal
 key_a.b.c:key.keyboard.right.bracket
-key_key.craftpresence.config_keycode.name:key.keyboard.enter
 key_key.lightoverlay.enable_overlay:key.keyboard.f7
 key_key.nyfsquivers.open_quiver:key.keyboard.b
 key_key.nyfsquivers.increase_slot:key.keyboard.right.bracket
@@ -159,7 +159,7 @@ key_gui.xaero_open_settings:key.keyboard.right.bracket
 key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
-soundCategory_master:1.0
+soundCategory_master:0.13134658
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

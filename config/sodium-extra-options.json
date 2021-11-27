@@ -8,10 +8,10 @@
     "block_animations": true
   },
   "particle_settings": {
-    "particles": false,
+    "particles": true,
     "rain_splash": true,
     "explosion": true,
-    "water": false,
+    "water": true,
     "smoke": true,
     "potion": true,
     "portal": true,
