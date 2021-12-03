@@ -31,7 +31,7 @@ guiScale:3
 particles:1
 maxFps:260
 difficulty:2
-graphicsMode:0
+graphicsMode:1
 ao:2
 biomeBlendRadius:2
 renderClouds:false
@@ -106,10 +106,11 @@ key_key.hotbar.9:key.keyboard.9
 key_key.dynamicfps.toggle_forced:key.keyboard.semicolon
 key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
+key_key.fabrishot.screenshot:key.keyboard.f9
 key_Reload Menu | CTRL + ALT + :key.keyboard.r
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
+key_key.firstperson.toggle:key.keyboard.f6
 key_key.namepain.showculled:key.keyboard.unknown
-key_toggle:key.keyboard.f6
 key_key.adventurez.activatearmor:key.keyboard.apostrophe
 key_key.adventurez.dragonflydown:key.keyboard.left.alt
 key_key.adventurez.dragonfirebreath:key.keyboard.grave.accent
@@ -128,9 +129,9 @@ key_key.indrev.modular:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
-key_key.craftpresence.config_keycode.name:key.keyboard.equal
 key_a.b.c:key.keyboard.right.bracket
 key_key.lightoverlay.enable_overlay:key.keyboard.f7
+key_key.craftpresence.config_keycode.name:key.keyboard.equal
 key_key.nyfsquivers.open_quiver:key.keyboard.b
 key_key.nyfsquivers.increase_slot:key.keyboard.right.bracket
 key_key.nyfsquivers.decrease_slot:key.keyboard.left.bracket
@@ -159,7 +160,7 @@ key_gui.xaero_open_settings:key.keyboard.right.bracket
 key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
-soundCategory_master:0.13134658
+soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

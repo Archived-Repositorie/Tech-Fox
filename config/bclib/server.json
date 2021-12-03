@@ -6,6 +6,9 @@
     "offerMods [default: true]": true,
     "offerAllMods [default: false]": false,
     "sendAllModInfo [default: true]": true,
-    "additionalMods [default: []]": []
+    "additionalMods [default: []]": [],
+    "sendAllModInfo [default: false]": false,
+    "additionalMods": [],
+    "excludeMods": []
   }
 }

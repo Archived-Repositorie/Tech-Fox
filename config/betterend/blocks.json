@@ -469,7 +469,8 @@
       "amber_root_seed [default: 41]": 41,
       "chorus_mushroom_seed [default: 42]": 42,
       "murkweed [default: 43]": 43,
-      "needlegrass [default: 44]": 44
+      "needlegrass [default: 44]": 44,
+      "end_lotus_flower [default: 45]": 45
     }
   }
 }

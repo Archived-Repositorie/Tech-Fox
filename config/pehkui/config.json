@@ -3,6 +3,7 @@
 	"keepAllScalesOnRespawn": false,
 	"scalesKeptOnRespawn": [],
 	"accurateNetherPortals": true,
+	"enableCommands": true,
 	"enableDebugCommands": false,
 	"scaledFallDamage": true,
 	"scaledMotion": true,
