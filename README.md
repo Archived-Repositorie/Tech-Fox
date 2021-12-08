@@ -174,7 +174,7 @@ Client
 | Tested/Recommended | 8GB             | 4GB               |
 | Minimal            | 6GB             | 3GB               |
 - Minecraft: Java Edition 1.17.1
-- Java OpenJDK 16 and newer
+- Java OpenJDK 17 and newer
 - Modloader Fabric 0.12.3 and newer
 
 Server
