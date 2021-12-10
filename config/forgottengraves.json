@@ -1,0 +1,14 @@
+{
+  "mainSettings": {
+    "enableGraves": true,
+    "sendGraveCoordinates": true,
+    "retrievalType": "ON_BOTH",
+    "dropType": "PUT_IN_INVENTORY",
+    "expStorageType": "STORE_ALL_XP",
+    "customXPStoredLevel": 30
+  },
+  "serverSettings": {
+    "enableGraveRobbing": false,
+    "minOperatorOverrideLevel": 4
+  }
+}

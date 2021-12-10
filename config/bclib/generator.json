@@ -14,6 +14,7 @@
     "customNetherBiomeSource [default: true]": true,
     "customEndBiomeSource [default: true]": true,
     "addNetherBiomesByCategory [default: false]": false,
-    "addEndBiomesByCategory [default: false]": false
+    "addEndBiomesByCategory [default: false]": false,
+    "useOldBiomeGenerator [default: false]": false
   }
 }

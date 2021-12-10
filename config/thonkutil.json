@@ -1,0 +1,5 @@
+{
+  "trade_offer_id": true,
+  "show_coords": false,
+  "maximum_render_distance": 32.0
+}

@@ -9,7 +9,8 @@ customization-meta {
 }
 
 customization {
-  path = images/2021-11-14_14.55.52.png
+  path = images/main_menu.png
+  wideformat = true
   action = texturizebackground
 }
 

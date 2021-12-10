@@ -639,7 +639,8 @@
             "name: jungle_bones_2; offset: 0; type: floor; chance: 20.000000",
             "name: jungle_bones_3; offset: 0; type: floor; chance: 20.000000"
           ],
-          "noise_density[def: 0.5]": 0.5
+          "noise_density[def: 0.5]": 0.5,
+          "noise_density[def: 0.35]": 0.35
         },
         "wart_forest": {
           "fog_color": {
@@ -759,7 +760,8 @@
             "name: lava/pyramid_3; offset: -1; type: lava; chance: 1.000000",
             "name: lava/pyramid_4; offset: -1; type: lava; chance: 1.000000"
           ],
-          "noise_density[def: 0.45]": 0.45
+          "noise_density[def: 0.45]": 0.45,
+          "noise_density[def: 0.35]": 0.35
         },
         "nether_grasslands": {
           "fog_color": {
@@ -1033,7 +1035,8 @@
             "name: lava/pyramid_3; offset: -1; type: lava; chance: 1.000000",
             "name: lava/pyramid_4; offset: -1; type: lava; chance: 1.000000"
           ],
-          "noise_density[def: 0.5]": 0.5
+          "noise_density[def: 0.5]": 0.5,
+          "noise_density[def: 0.35]": 0.35
         },
         "nether_mushroom_forest_edge": {
           "fog_color": {
@@ -2611,7 +2614,8 @@
             "name: lava/pyramid_3; offset: -1; type: lava; chance: 1.000000",
             "name: lava/pyramid_4; offset: -1; type: lava; chance: 1.000000"
           ],
-          "noise_density[def: 0.5]": 0.5
+          "noise_density[def: 0.5]": 0.5,
+          "noise_density[def: 0.35]": 0.35
         },
         "flooded_deltas": {
           "fog_color": {
@@ -2804,7 +2808,8 @@
           },
           "plants_and_structures_density[def: 1.0]": 1.0,
           "schematics": [],
-          "noise_density[def: 0.5]": 0.5
+          "noise_density[def: 0.5]": 0.5,
+          "noise_density[def: 0.35]": 0.35
         },
         "old_swampland": {
           "fog_color": {

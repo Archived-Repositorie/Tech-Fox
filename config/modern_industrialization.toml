@@ -1,0 +1,9 @@
+generateOres = true
+blacklistedOres = []
+spawnWithGuideBook = true
+respawnWithGuideBook = true
+disableFuelTooltips = false
+disableItemTagTooltips = false
+newVersionMessage = true
+colorWaterLava = true
+enableDebugCommands = false

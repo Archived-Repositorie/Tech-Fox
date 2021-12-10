@@ -252,6 +252,138 @@
     "croptopia:peach_crop": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
+    },
+    "betternether:anchor_tree_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:nether_sakura_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:willow_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:rubeus_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:anchor_tree_vine": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:black_vine": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:soul_vein": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:eyeball_small": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:stalagnate_seed": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:eye_vine": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:egg_plant": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:lumabus_vine": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:magma_flower": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:anchor_tree_sapling": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:willow_sapling": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:blooming_vine": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:golden_vine": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:jellyfish_mushroom_sapling": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:nether_sakura_sapling": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:eyeball": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:nether_reed_stem": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:mushroom_fir_sapling": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:orange_mushroom": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:ink_bush": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:whispering_gourd_vine": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:rubeus_sapling": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:black_apple": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:golden_lumabus_vine": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:neon_equisetum": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:feather_fern": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:potted_plant": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:bone_mushroom": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:black_bush": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
     }
   }
 }

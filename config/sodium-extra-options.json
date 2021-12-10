@@ -24,12 +24,12 @@
     "composter": true
   },
   "detail_settings": {
-    "rain_snow": false,
+    "rain_snow": true,
     "biome_colors": true,
     "sky_colors": true
   },
   "render_settings": {
-    "fog_distance": 33,
+    "fog_distance": 0,
     "light_updates": true,
     "item_frame": true,
     "armor_stand": true,
@@ -40,8 +40,8 @@
     "show_fps": false,
     "show_coords": false,
     "reduce_resolution_on_mac": true,
-    "cloud_height": 0,
-    "toasts": false,
+    "cloud_height": 139,
+    "toasts": true,
     "instant_sneak": false,
     "prevent_shaders": false,
     "use_fast_random": true

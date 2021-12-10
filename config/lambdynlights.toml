@@ -15,3 +15,160 @@ mode = "off"
 	# Creeper lighting mode. May be off, simple or fancy.
 	creeper = "simple"
 
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				axolotl = true
+				spawner_minecart = true
+				llama = true
+				mule = true
+				bat = true
+				husk = true
+				experience_bottle = true
+				rabbit = true
+				firework_rocket = true
+				silverfish = true
+				giant = true
+				drowned = true
+				item = true
+				goat = true
+				vindicator = true
+				horse = true
+				minecart = true
+				spectral_arrow = true
+				mooshroom = true
+				llama_spit = true
+				glow_item_frame = true
+				snowball = true
+				tnt = true
+				parrot = true
+				creeper = true
+				lightning_bolt = true
+				ravager = true
+				evoker_fangs = true
+				chest_minecart = true
+				slime = true
+				pillager = true
+				area_effect_cloud = true
+				blaze = true
+				piglin = true
+				end_crystal = true
+				endermite = true
+				zombie = true
+				guardian = true
+				fireball = true
+				illusioner = true
+				eye_of_ender = true
+				wolf = true
+				zombie_villager = true
+				tnt_minecart = true
+				elder_guardian = true
+				boat = true
+				small_fireball = true
+				cave_spider = true
+				witch = true
+				cod = true
+				snow_golem = true
+				spider = true
+				command_block_minecart = true
+				panda = true
+				bee = true
+				arrow = true
+				cow = true
+				magma_cube = true
+				pig = true
+				skeleton = true
+				hoglin = true
+				armor_stand = true
+				experience_orb = true
+				dolphin = true
+				stray = true
+				turtle = true
+				shulker = true
+				salmon = true
+				piglin_brute = true
+				ocelot = true
+				furnace_minecart = true
+				item_frame = true
+				phantom = true
+				ender_dragon = true
+				leash_knot = true
+				evoker = true
+				marker = true
+				glow_squid = true
+				squid = true
+				shulker_bullet = true
+				enderman = true
+				dragon_fireball = true
+				chicken = true
+				donkey = true
+				fox = true
+				iron_golem = true
+				cat = true
+				ghast = true
+				sheep = true
+				player = true
+				pufferfish = true
+				villager = true
+				skeleton_horse = true
+				polar_bear = true
+				hopper_minecart = true
+				falling_block = true
+				painting = true
+
+			[light_sources.settings.entities.bewitchment]
+				ghost = true
+				werewolf = true
+				raven = true
+				owl = true
+				vampire = true
+				snake = true
+
+			[light_sources.settings.entities.earthtojavamobs]
+				muddy_foot_rabbit = true
+				piebald_pig = true
+				dairy_cow = true
+				pink_footed_pig = true
+				flecked_sheep = true
+				cream_cow = true
+				spotted_pig = true
+				midnight_chicken = true
+				umbra_cow = true
+				skeleton_wolf = true
+				rainbow_sheep = true
+				mottled_pig = true
+				long_nosed_sheep = true
+				muddy_pig = true
+				amber_chicken = true
+				freckled_rabbit = true
+				wooly_cow = true
+				sooty_pig = true
+				jumbo_rabbit = true
+				stormy_chicken = true
+				rocky_sheep = true
+				pinto_cow = true
+				cookie_cow = true
+				fuzzy_sheep = true
+				fancy_chicken = true
+				jolly_llama = true
+				inky_sheep = true
+				tropical_slime = true
+				sunset_cow = true
+				skewbald_chicken = true
+				pale_pig = true
+
+			[light_sources.settings.entities.adventurez]
+				amethyst_golem = true
+				summoner = true
+
+			[light_sources.settings.entities.terraform]
+				boat = true
+
+			[light_sources.settings.entities.lovely_snails]
+				snail = true
+
+			[light_sources.settings.entities.sit]
+				entity_sit = true
+

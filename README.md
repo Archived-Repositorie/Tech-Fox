@@ -173,7 +173,7 @@ Client
 | ------------------ | --------------- | ----------------- |
 | Tested/Recommended | 8GB             | 4GB               |
 | Minimal            | 6GB             | 3GB               |
-- Minecraft: Java Edition 1.17.1
+- Minecraft: Java Edition 1.18
 - Java OpenJDK 17 and newer
 - Modloader Fabric 0.12.3 and newer
 

@@ -11,6 +11,19 @@
     "minecraft:mossy_stone_brick_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=none]",
     "minecraft:mossy_stone_brick_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=low]"
   ],
+  "customStyleSignText": [
+    "<white>${player}",
+    "<gray><lang:'text.graves.items_xp':'<white>${item_count}':'<white>${xp}'>",
+    "<red><lang:'text.graves.break_time':''>",
+    "<white>${break_time}"
+  ],
+  "customStyleSignProtectedText": [
+    "<white>${player}",
+    "<gray><lang:'text.graves.items_xp':'<white>${item_count}':'<white>${xp}'>",
+    "<blue><lang:'text.graves.protected_time':''>",
+    "<white>${protection_time}"
+  ],
+  "customStyleUpdateRate": 20,
   "isProtected": true,
   "protectionTime": 300,
   "breakingTime": 900,
@@ -20,6 +33,7 @@
   "createFromPvP": true,
   "createInClaims": true,
   "dropItemsAfterExpiring": true,
+  "shiftClickTakesItems": true,
   "graveTitle": "<lang:'text.graves.players_grave':'${player}'>",
   "hologram": true,
   "hologramOffset": 1.2,
@@ -53,6 +67,12 @@
     "<gray><lang:'text.graves.items_xp':'<white>${item_count}':'<white>${xp}'>",
     "<blue><lang:'text.graves.not_protected'>",
     "<red><lang:'text.graves.break_time':'<white>${break_time}'>"
+  ],
+  "guiProtectedItem": [
+    "chest"
+  ],
+  "guiItem": [
+    "trapped_chest"
   ],
   "messageGraveCreated": "<white><lang:'text.graves.created_at':'<yellow>${position}':'<gray>${world}'>",
   "messageProtectionEnded": "<red><lang:'text.graves.no_longer_protected':'<gold>${position}':'<white>${world}':'<yellow>${item_count}'>",
