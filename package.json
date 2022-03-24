@@ -1,0 +1,19 @@
+{
+  "name": "tech-fox",
+  "version": "1.0.0",
+  "description": "Nexus for all the mods made by JustAnUmbreon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustFoxx/Tech-Fox.git"
+  },
+  "author": "Furious Feline",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustFoxx/Tech-Fox/issues"
+  },
+  "homepage": "https://github.com/JustFoxx/Tech-Fox#readme"
+}
